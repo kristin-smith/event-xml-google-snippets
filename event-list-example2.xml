@@ -1,0 +1,107 @@
+<r25:events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xl="http://www.w3.org/1999/xlink" xsi:noSchemaLocation="urn:r25-schema.xml" pubdate="2016-04-27T14:29:28-06:00" engine="accl">
+    
+    
+<r25:event xl:href="event.xml?event_id=289590" id="BxJDMTI1Mjk=" crc="00000024" status="est">
+<r25:event_id>289590</r25:event_id>
+<r25:event_name>AAC Services Group</r25:event_name>
+<r25:alien_uid/>
+<r25:event_priority>0</r25:event_priority>
+<r25:event_type_id xl:href="evtype.xml?type_id=13">13</r25:event_type_id>
+<r25:event_type_name>Meeting</r25:event_type_name>
+<r25:node_type>E</r25:node_type>
+<r25:node_type_name>event</r25:node_type_name>
+<r25:state>2</r25:state>
+<r25:state_name>Confirmed</r25:state_name>
+<r25:event_locator>2015-AAQMKC</r25:event_locator>
+<r25:event_title/>
+<r25:favorite>F</r25:favorite>
+<r25:organization_id xl:href="organization.xml?organization_id=1056">1056</r25:organization_id>
+<r25:organization_name>University Libraries</r25:organization_name>
+<r25:parent_id xl:href="events.xml?parent_id=128063">128063</r25:parent_id>
+<r25:cabinet_id xl:href="event.xml?event_id=128062">128062</r25:cabinet_id>
+<r25:cabinet_name>SPECIAL EVENTS</r25:cabinet_name>
+<r25:start_date>2015-07-28</r25:start_date>
+<r25:end_date>2016-01-26</r25:end_date>
+<r25:registration_url/>
+<r25:last_mod_dt>2016-04-25T10:59:41-06:00</r25:last_mod_dt>
+<r25:last_mod_user>871000680</r25:last_mod_user>
+<r25:creation_dt>2015-07-15T09:19:06-06:00</r25:creation_dt>
+</r25:event>
+<r25:event xl:href="event.xml?event_id=294840" id="BxJDMTI1Mjk=" crc="00000024" status="est">
+<r25:event_id>294840</r25:event_id>
+<r25:event_name>AAP - Cameron Hunter</r25:event_name>
+<r25:alien_uid/>
+<r25:event_priority>0</r25:event_priority>
+<r25:event_type_id xl:href="evtype.xml?type_id=40">40</r25:event_type_id>
+<r25:event_type_name>Course Related</r25:event_type_name>
+<r25:node_type>E</r25:node_type>
+<r25:node_type_name>event</r25:node_type_name>
+<r25:state>2</r25:state>
+<r25:state_name>Confirmed</r25:state_name>
+<r25:event_locator>2015-AAQUEA</r25:event_locator>
+<r25:event_title/>
+<r25:favorite>F</r25:favorite>
+<r25:organization_id xl:href="organization.xml?organization_id=467">467</r25:organization_id>
+<r25:organization_name>Sturm College of Law</r25:organization_name>
+<r25:parent_id xl:href="events.xml?parent_id=128063">128063</r25:parent_id>
+<r25:cabinet_id xl:href="event.xml?event_id=128062">128062</r25:cabinet_id>
+<r25:cabinet_name>SPECIAL EVENTS</r25:cabinet_name>
+<r25:start_date>2015-09-12</r25:start_date>
+<r25:end_date>2015-11-21</r25:end_date>
+<r25:registration_url/>
+<r25:last_mod_dt>2015-10-02T09:25:32-06:00</r25:last_mod_dt>
+<r25:last_mod_user>872221455</r25:last_mod_user>
+<r25:creation_dt>2015-08-30T15:38:43-06:00</r25:creation_dt>
+</r25:event>
+<r25:event xl:href="event.xml?event_id=294667" id="BxJDMTI1Mjk=" crc="00000023" status="est">
+<r25:event_id>294667</r25:event_id>
+<r25:event_name>AAP Civil Procedure</r25:event_name>
+<r25:alien_uid/>
+<r25:event_priority>0</r25:event_priority>
+<r25:event_type_id xl:href="evtype.xml?type_id=40">40</r25:event_type_id>
+<r25:event_type_name>Course Related</r25:event_type_name>
+<r25:node_type>E</r25:node_type>
+<r25:node_type_name>event</r25:node_type_name>
+<r25:state>2</r25:state>
+<r25:state_name>Confirmed</r25:state_name>
+<r25:event_locator>2015-AAQTXJ</r25:event_locator>
+<r25:event_title>AAP civil procedure</r25:event_title>
+<r25:favorite>F</r25:favorite>
+<r25:organization_id xl:href="organization.xml?organization_id=287">287</r25:organization_id>
+<r25:organization_name>Academic Resources</r25:organization_name>
+<r25:parent_id xl:href="events.xml?parent_id=128063">128063</r25:parent_id>
+<r25:cabinet_id xl:href="event.xml?event_id=128062">128062</r25:cabinet_id>
+<r25:cabinet_name>SPECIAL EVENTS</r25:cabinet_name>
+<r25:start_date>2015-09-02</r25:start_date>
+<r25:end_date>2015-11-25</r25:end_date>
+<r25:registration_url/>
+<r25:last_mod_dt>2015-08-28T08:54:16-06:00</r25:last_mod_dt>
+<r25:last_mod_user>872221455</r25:last_mod_user>
+<r25:creation_dt>2015-08-27T20:30:14-06:00</r25:creation_dt>
+</r25:event>
+<r25:event xl:href="event.xml?event_id=298173" id="BxJDMTI1Mjk=" crc="00000023" status="est">
+<r25:event_id>298173</r25:event_id>
+<r25:event_name>AAP Civil Procedure</r25:event_name>
+<r25:alien_uid/>
+<r25:event_priority>0</r25:event_priority>
+<r25:event_type_id xl:href="evtype.xml?type_id=40">40</r25:event_type_id>
+<r25:event_type_name>Course Related</r25:event_type_name>
+<r25:node_type>E</r25:node_type>
+<r25:node_type_name>event</r25:node_type_name>
+<r25:state>2</r25:state>
+<r25:state_name>Confirmed</r25:state_name>
+<r25:event_locator>2015-AAQZCF</r25:event_locator>
+<r25:event_title/>
+<r25:favorite>F</r25:favorite>
+<r25:organization_id xl:href="organization.xml?organization_id=517">517</r25:organization_id>
+<r25:organization_name>Law - Academic Achievement Program</r25:organization_name>
+<r25:parent_id xl:href="events.xml?parent_id=128063">128063</r25:parent_id>
+<r25:cabinet_id xl:href="event.xml?event_id=128062">128062</r25:cabinet_id>
+<r25:cabinet_name>SPECIAL EVENTS</r25:cabinet_name>
+<r25:start_date>2015-09-24</r25:start_date>
+<r25:end_date>2015-10-22</r25:end_date>
+<r25:registration_url/>
+<r25:last_mod_dt>2015-09-21T15:33:40-06:00</r25:last_mod_dt>
+<r25:last_mod_user>872221455</r25:last_mod_user>
+<r25:creation_dt>2015-09-21T14:27:25-06:00</r25:creation_dt>
+</r25:event>
